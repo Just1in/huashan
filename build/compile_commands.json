@@ -1,0 +1,17 @@
+[
+{
+  "directory": "F:/draft_paper/draft_5/build",
+  "command": "D:/MinGW/bin/g++.exe  @CMakeFiles/cmake_main.dir/includes_CXX.rsp  -std=c++11 -Wall -g -o CMakeFiles/cmake_main.dir/src/fish.cpp.obj -c F:/draft_paper/draft_5/src/fish.cpp",
+  "file": "F:/draft_paper/draft_5/src/fish.cpp"
+},
+{
+  "directory": "F:/draft_paper/draft_5/build",
+  "command": "D:/MinGW/bin/g++.exe  @CMakeFiles/cmake_main.dir/includes_CXX.rsp  -std=c++11 -Wall -g -o CMakeFiles/cmake_main.dir/src/pig.cpp.obj -c F:/draft_paper/draft_5/src/pig.cpp",
+  "file": "F:/draft_paper/draft_5/src/pig.cpp"
+},
+{
+  "directory": "F:/draft_paper/draft_5/build",
+  "command": "D:/MinGW/bin/g++.exe  @CMakeFiles/cmake_main.dir/includes_CXX.rsp  -std=c++11 -Wall -g -o CMakeFiles/cmake_main.dir/hello.cpp.obj -c F:/draft_paper/draft_5/hello.cpp",
+  "file": "F:/draft_paper/draft_5/hello.cpp"
+}
+]
